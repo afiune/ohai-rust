@@ -1,0 +1,10 @@
+[package]
+name = "ohai"
+version = "0.1.0"
+authors = ["Salim Afiune <afiune@chef.io>"]
+
+[[bin]]
+name = "ohai"
+
+[dependencies]
+clap = "*"

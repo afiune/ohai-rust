@@ -1,0 +1,5 @@
+# Vi
+*.swp
+
+# Habitat
+results/
